@@ -1,2 +1,2 @@
 # Capstone_Project_1
-SpringBoard DataScience Capstone project 1
+My First Capstone project involves analysing the data provided by "Department of Jobs and Small Business", Australia. Datset contains information about small/mid sized businesses that started with the support of Australian government. Most of the business owners were from socially disadvantaged background with limited resources. Government helps these businesses by providing mentoring and incentive support. Data is present in the form of excel sheets and provides us an insight into the number of businesses started, Participants, their personality, locations and whether the businesses are successful or not. More details about the Dataset are provided in the document "Capstone project Proposal Submission".
